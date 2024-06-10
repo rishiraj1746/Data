@@ -1,4 +1,4 @@
-**Data Analytics Portfolio**<br>
+<h1>Data Analytics Portfolio</h1>
 Welcome to my Data Analytics Portfolio repository! This repository showcases my skills and projects in data analytics, designed to impress potential employers and demonstrate my expertise in this field.
 <br>
 About Me <br>
