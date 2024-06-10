@@ -1,39 +1,67 @@
-<h2>Data Analytics Portfolio</h2>
-Welcome to my Data Analytics Portfolio repository! This repository showcases my skills and projects in data analytics, designed to impress potential employers and demonstrate my expertise in this field.
-<br>
-<h3>About Me</h3>
-I am a dedicated and motivated data analyst with a strong passion for leveraging data-driven solutions to solve complex problems. Throughout my journey, I have acquired a solid foundation in data analytics tools and techniques, including Python, NumPy, Pandas, Matplotlib, and data visualization.
-<br>
-<h3>Projects Overview</h3>
-Here are some projects that highlight my skills and expertise:
-<br>
-**Exploratory Data Analysis (EDA) Project**
-<br>
-Description: *Analyzed a real-world dataset using Python, performed data cleaning, visualization, and extracted meaningful insights.* <br>
-Tools Used: *Python, Pandas, Matplotlib, Seaborn* <br>
-Repository Link: 
-<br>
-**Data Visualization Dashboard** <br>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Analytics Portfolio</title>
+</head>
+<body>
 
-Description: *Created an interactive dashboard to visualize sales trends, customer demographics, and product performance using Plotly and Dash.* <br>
-Tools Used: *Python, Plotly, Dash* <br>
-Repository Link: 
-<br>
-<h3>Skills</h3>
-Data Cleaning and Preprocessing <br>
-Exploratory Data Analysis (EDA) <br>
-Statistical Analysis and Hypothesis Testing <br>
-Data Visualization (Matplotlib, Seaborn, Plotly) <br>
-Dashboard Creation (Dash) <br>
-SQL and Database Management <br>
-Version Control (Git, GitHub) 
-<br>
-<h3>Certifications</h3>
-Completed Python for Data Science from Infosys Springboard <br>
-<h3>Contact Me</h3>
-I am actively seeking opportunities in data analytics roles. Feel free to reach out to discuss potential collaborations or job opportunities:
-<br>
-**Email:** rishiraj1746@gmail.com <br>
-**LinkedIn:** www.linkedin.com/in/rishiraj-175261260 <br>
-**Portfolio Website:** <br>
-Thank you for visiting my portfolio repository. I look forward to connecting with you! <br>
+<h1>Data Analytics Portfolio</h1>
+
+<p>Welcome to my Data Analytics Portfolio repository! This repository showcases my skills and projects in data analytics, designed to impress potential employers and demonstrate my expertise in this field.</p>
+
+<h2>About Me</h2>
+<p>I am a dedicated and motivated data analyst with a strong passion for leveraging data-driven solutions to solve complex problems. Throughout my journey, I have acquired a solid foundation in data analytics tools and techniques, including Python, NumPy, Pandas, Matplotlib, and data visualization.</p>
+
+<h2>Projects Overview</h2>
+<p>Here are some projects that highlight my skills and expertise:</p>
+
+<ul>
+    <li>
+        <strong>Exploratory Data Analysis (EDA) Project</strong>
+        <ul>
+            <li>Description: Analyzed a real-world dataset using Python, performed data cleaning, visualization, and extracted meaningful insights.</li>
+            <li>Tools Used: Python, Pandas, Matplotlib, Seaborn</li>
+            <li>Repository Link: <a href="EDA-Project/README.md">EDA-Project</a></li>
+        </ul>
+    </li>
+    <li>
+        <strong>Data Visualization Dashboard</strong>
+        <ul>
+            <li>Description: Created an interactive dashboard to visualize sales trends, customer demographics, and product performance using Plotly and Dash.</li>
+            <li>Tools Used: Python, Plotly, Dash</li>
+            <li>Repository Link: <a href="Data-Viz-Dashboard/README.md">Data-Viz-Dashboard</a></li>
+        </ul>
+    </li>
+</ul>
+
+<h2>Skills</h2>
+<ul>
+    <li>Data Cleaning and Preprocessing</li>
+    <li>Exploratory Data Analysis (EDA)</li>
+    <li>Statistical Analysis and Hypothesis Testing</li>
+    <li>Data Visualization (Matplotlib, Seaborn, Plotly)</li>
+    <li>Dashboard Creation (Dash)</li>
+    <li>SQL and Database Management</li>
+    <li>Version Control (Git, GitHub)</li>
+</ul>
+
+<h2>Certifications</h2>
+<ul>
+    <li>Completed Python for Data Science in Data Analytics from Infosys Springboard</li>
+    <li>Achieved ChatGPT for Everyone in Data Visualization from Guvi</li>
+</ul>
+
+<h2>Contact Me</h2>
+<p>I am actively seeking opportunities in data analytics roles. Feel free to reach out to discuss potential collaborations or job opportunities:</p>
+<ul>
+    <li>Email: <a href="rishiraj1746@gmail.com">your-email@example.com</a></li>
+    <li>LinkedIn: <a href="www.linkedin.com/in/rishiraj-175261260">Your LinkedIn Profile</a></li>
+    <li>Portfolio Website: <a href="">Your Portfolio Website</a></li>
+</ul>
+
+<p>Thank you for visiting my portfolio repository. I look forward to connecting with you!</p>
+
+</body>
+</html>
