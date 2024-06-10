@@ -46,19 +46,12 @@
     <li>SQL and Database Management</li>
     <li>Version Control (Git, GitHub)</li>
 </ul>
-
-<h2>Certifications</h2>
-<ul>
-    <li>Completed Python for Data Science in Data Analytics from Infosys Springboard</li>
-    <li>Achieved ChatGPT for Everyone in Data Visualization from Guvi</li>
-</ul>
-
 <h2>Contact Me</h2>
 <p>I am actively seeking opportunities in data analytics roles. Feel free to reach out to discuss potential collaborations or job opportunities:</p>
 <ul>
-    <li>Email: <a href="rishiraj1746@gmail.com">your-email@example.com</a></li>
-    <li>LinkedIn: <a href="www.linkedin.com/in/rishiraj-175261260">Your LinkedIn Profile</a></li>
-    <li>Portfolio Website: <a href="">Your Portfolio Website</a></li>
+    <li>Email: <a href="mailto:rishiraj1746@gmail.com">rishiraj1746@gmail.com</a></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/rishiraj-175261260">rishiraj-175261260</a></li>
+    <li>Portfolio Website: <a href="https://www.your-portfolio-website.com">Portfolio Website</a></li>
 </ul>
 
 <p>Thank you for visiting my portfolio repository. I look forward to connecting with you!</p>
