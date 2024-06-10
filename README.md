@@ -50,7 +50,6 @@
 <ul>
     <li>Email: <a href="mailto:rishiraj1746@gmail.com">rishiraj1746@gmail.com</a></li>
     <li>LinkedIn: <a href="https://www.linkedin.com/in/rishiraj-175261260">rishiraj-175261260</a></li>
-    <li>Portfolio Website: <a href="https://www.rishiraj1746.com">Portfolio</a></li>
 </ul>
 
 <p>Thank you for visiting my portfolio repository. I look forward to connecting with you!</p>
