@@ -1,7 +1,7 @@
 <h1>Data Analytics Portfolio</h1>
 Welcome to my Data Analytics Portfolio repository! This repository showcases my skills and projects in data analytics, designed to impress potential employers and demonstrate my expertise in this field.
 <br>
-About Me <br>
+<h3>About Me</h3>
 I am a dedicated and motivated data analyst with a strong passion for leveraging data-driven solutions to solve complex problems. Throughout my journey, I have acquired a solid foundation in data analytics tools and techniques, including Python, NumPy, Pandas, Matplotlib, and data visualization.
 <br>
 Projects Overview <br>
