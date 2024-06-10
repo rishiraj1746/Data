@@ -1,36 +1,36 @@
-Data Analytics Portfolio
+Data Analytics Portfolio<br>
 Welcome to my Data Analytics Portfolio repository! This repository showcases my skills and projects in data analytics, designed to impress potential employers and demonstrate my expertise in this field.
-
-About Me
+<br>
+About Me <br>
 I am a dedicated and motivated data analyst with a strong passion for leveraging data-driven solutions to solve complex problems. Throughout my journey, I have acquired a solid foundation in data analytics tools and techniques, including Python, NumPy, Pandas, Matplotlib, and data visualization.
-
-Projects Overview
+<br>
+Projects Overview <br>
 Here are some projects that highlight my skills and expertise:
-
+<br>
 Exploratory Data Analysis (EDA) Project
+<br>
+Description: Analyzed a real-world dataset using Python, performed data cleaning, visualization, and extracted meaningful insights. <br>
+Tools Used: Python, Pandas, Matplotlib, Seaborn <br>
+Repository Link: EDA-Project <br>
+Data Visualization Dashboard <br>
 
-Description: Analyzed a real-world dataset using Python, performed data cleaning, visualization, and extracted meaningful insights.
-Tools Used: Python, Pandas, Matplotlib, Seaborn
-Repository Link: EDA-Project
-Data Visualization Dashboard
-
-Description: Created an interactive dashboard to visualize sales trends, customer demographics, and product performance using Plotly and Dash.
-Tools Used: Python, Plotly, Dash
-Repository Link: Data-Viz-Dashboard
-Skills
-Data Cleaning and Preprocessing
-Exploratory Data Analysis (EDA)
-Statistical Analysis and Hypothesis Testing
-Data Visualization (Matplotlib, Seaborn, Plotly)
-Dashboard Creation (Dash)
-SQL and Database Management
-Version Control (Git, GitHub)
-Certifications
-Completed Python for Data Science from Infosys Springboard
-Contact Me
+Description: Created an interactive dashboard to visualize sales trends, customer demographics, and product performance using Plotly and Dash. <br>
+Tools Used: Python, Plotly, Dash <br>
+Repository Link: Data-Viz-Dashboard <br>
+Skills <br>
+Data Cleaning and Preprocessing <br>
+Exploratory Data Analysis (EDA) <br>
+Statistical Analysis and Hypothesis Testing <br>
+Data Visualization (Matplotlib, Seaborn, Plotly) <br>
+Dashboard Creation (Dash) <br>
+SQL and Database Management <br>
+Version Control (Git, GitHub) <br>
+Certifications <br>
+Completed Python for Data Science from Infosys Springboard <br>
+Contact Me <br>
 I am actively seeking opportunities in data analytics roles. Feel free to reach out to discuss potential collaborations or job opportunities:
-
-Email: your-email@example.com
-LinkedIn: Your LinkedIn Profile
-Portfolio Website: Your Portfolio Website
-Thank you for visiting my portfolio repository. I look forward to connecting with you!
+<br>
+Email: your-email@example.com <br>
+LinkedIn: Your LinkedIn Profile <br>
+Portfolio Website: Your Portfolio Website <br>
+Thank you for visiting my portfolio repository. I look forward to connecting with you! <br>
